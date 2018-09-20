@@ -1,5 +1,5 @@
 _repo: Outo-intohimo-Kertomus-Ludvig-XIVn-ajalta_52705
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Das fräulein von Scuderi. Finnish
 contributor:
   translator:
@@ -7,6 +7,9 @@ contributor:
     alias: Etelapaa, J. E.
     gutenberg_agent_id: '47008'
     url: http://www.gutenberg.org/2009/agents/47008
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hoffmann, E. T. A. (Ernst Theodor Amadeus)
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2008
     wikipedia: http://en.wikipedia.org/wiki/E.T.A._Hoffmann
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52705#Outo-intohimo-Kertomus-Ludvig-XIVn-ajalta
 gutenberg_issued: '2016-08-02'
 gutenberg_type: Text
 identifiers:
