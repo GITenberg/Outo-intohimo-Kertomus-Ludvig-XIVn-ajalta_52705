@@ -1,0 +1,38 @@
+_repo: Outo-intohimo-Kertomus-Ludvig-XIVn-ajalta_52705
+_version: 0.0.1
+alternative_title: Das fräulein von Scuderi. Finnish
+contributor:
+  translator:
+    agent_name: Eteläpää, J. E.
+    alias: Etelapaa, J. E.
+    gutenberg_agent_id: '47008'
+    url: http://www.gutenberg.org/2009/agents/47008
+creator:
+  author:
+    agent_name: Hoffmann, E. T. A. (Ernst Theodor Amadeus)
+    aliases:
+    - Hoffmann, Ernst Theodor Amadeus
+    - Hoffmann, E.T.A.
+    - Hoffmann, Ernst Theodor Wilhelm
+    birthdate: 1776
+    deathdate: 1822
+    gutenberg_agent_id: '2008'
+    url: http://www.gutenberg.org/2009/agents/2008
+    wikipedia: http://en.wikipedia.org/wiki/E.T.A._Hoffmann
+description: ''
+gutenberg_issued: '2016-08-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52705'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Robbery -- Fiction'
+- !lcc 'PT'
+- !lcsh 'Jewelry -- Fiction'
+- !lcsh 'Paris (France) -- Fiction'
+- GITenberg
+title: 'Outo intohimo: Kertomus Ludvig XIV:n ajalta'
+url: http://www.gutenberg.org/ebooks/52705
